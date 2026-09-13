@@ -1,2 +1,9 @@
-# powerslaty.github.io
-Hey this is my website lol
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+</body>
+</html>
